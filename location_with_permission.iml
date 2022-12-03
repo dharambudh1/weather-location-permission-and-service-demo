@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/app_settings/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/location/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geocoding/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/geolocator_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/permission_handler_apple/.pub" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
