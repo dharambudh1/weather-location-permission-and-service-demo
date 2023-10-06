@@ -3,7 +3,7 @@
 ## Description:
 This is a demonstration project designed to collect both geographical and weather data based on your current location.
 
-  - The geographical information comprises:
+  - The geographical information includes:
     - Name
     - Street
     - ISO Country Code
@@ -16,7 +16,7 @@ This is a demonstration project designed to collect both geographical and weathe
     - Thoroughfare
     - Sub-Thoroughfare
 
-  - The weather information comprises:
+  - The weather information includes:
     - Date
     - Latitude
     - Longitude
