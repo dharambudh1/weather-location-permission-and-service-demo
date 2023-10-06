@@ -3,6 +3,10 @@
 ## Description:
 This is a demonstration project designed to collect both geographical and weather data based on your current location.
 
+## Requirement:
+Weather data is sourced from [OpenWeatherMap](https://openweathermap.org/), necessitating the creation of an [OpenWeatherMap](https://openweathermap.org/) account to obtain the API key, which is provided at no cost.
+
+## Information:
   - The geographical information includes:
     - Name
     - Street
@@ -43,6 +47,7 @@ This is a demonstration project designed to collect both geographical and weathe
     - Wind Speed
     - Wind Gusts
 
+## Packages:
 Used packages: 
   - [location](https://pub.dev/packages/location)
   - [geolocator](https://pub.dev/packages/geolocator)
